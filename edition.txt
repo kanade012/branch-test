@@ -4,3 +4,4 @@ third edition of git practicing
 issue resolved
 hotfix team's solution
 new function added
+team upgraded
