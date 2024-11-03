@@ -2,3 +2,4 @@ first edition of git practicing
 second edition of git practicing
 third edition of git practicing
 issue resolved
+hotfix my solution
